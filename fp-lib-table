@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name adafruit)(type KiCad)(uri "$(KIPRJMOD)/../kicad-libs/footprints/adafruit.pretty")(options "")(descr ""))
+  (lib (name flash)(type KiCad)(uri "$(KIPRJMOD)/../kicad-libs/footprints/flash.pretty")(options "")(descr ""))
+  (lib (name fci)(type KiCad)(uri "$(KIPRJMOD)/../kicad-libs/footprints/fci.pretty")(options "")(descr ""))
+  (lib (name lattice)(type KiCad)(uri "$(KIPRJMOD)/../kicad-libs/footprints/lattice.pretty")(options "")(descr ""))
+)
