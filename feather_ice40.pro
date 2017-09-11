@@ -1,4 +1,4 @@
-update=Tuesday, June 06, 2017 'PMt' 08:18:16 PM
+update=Sunday, September 10, 2017 'PMt' 11:44:10 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,3 +65,4 @@ LibName33=../kicad-libs/components/exar
 LibName34=../kicad-libs/components/microchip_battery
 LibName35=switches
 LibName36=../kicad-libs/components/lattice
+LibName37=leds
